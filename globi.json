@@ -13,6 +13,7 @@
     "url" : "Final_Data/CropPol_sampling_data.csv",
     "dcterms:bibliographicCitation" : "Allen-Perkins, Alfonso, Magrach, Ainhoa, Dainese, Matteo, Garibaldi, Lucas A., Kleijn, David, Rader, Romina, Reilly, James R., et al. 2022. \"CropPol: A Dynamic, Open and Global Database on Crop Pollination.\" Ecology 103(3): e3614. https://doi.org/10.1002/ecy.3614",
     "delimiter" : ",",
+    "deprecated": true,
     "headerRowCount" : 1,
     "null" : [ "" ],
     "tableSchema" : {
